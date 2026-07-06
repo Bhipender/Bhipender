@@ -1,0 +1,8 @@
+8. In a linked list, each node contains:
+a) Only data
+b) Data and a reference to the next node
+c) Index only
+d) Key only
+
+answer
+b) Data and a reference to the next node
