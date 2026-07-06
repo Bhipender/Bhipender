@@ -1,0 +1,9 @@
+6. Which data structure follows the LIFO principle?
+a) Queue
+b) Linked List
+c) Stack
+d) Graph
+
+answer
+c) Stack
+

@@ -1,0 +1,8 @@
+3. Which operation removes an element from the front of a queue?
+a) Push
+b) Pop
+c) Dequeue
+d) Delete
+
+answer
+c) Dequeue

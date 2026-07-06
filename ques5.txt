@@ -1,0 +1,8 @@
+5. A graph is made up of ________.
+a) Arrays and Lists
+b) Nodes and Edges
+c) Keys and Values
+d) Parents and Children
+
+answer
+b) Nodes and Edges
