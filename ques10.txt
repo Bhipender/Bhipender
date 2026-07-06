@@ -1,8 +1,0 @@
-10. Which traversal explores all neighboring vertices before moving deeper?
-a) DFS
-b) BFS
-c) Inorder
-d) Preorder
-answer
-b) BFS
-
