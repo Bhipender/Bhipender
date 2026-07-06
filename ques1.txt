@@ -1,8 +1,0 @@
-1. Which data structure stores elements in sequential nodes connected by
-links?
-a) Stack
-b) Queue
-c) Linked List
-d) Tree
-answer
-c) Linked List
