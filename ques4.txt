@@ -1,8 +1,0 @@
-4. Which node is present at the top of a tree?
-a) Leaf Node
-b) Parent Node
-c) Root Node
-d) Child Node
-
-answer
-c) Root Node
