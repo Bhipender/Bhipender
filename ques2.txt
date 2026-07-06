@@ -1,0 +1,7 @@
+2. Which operation adds an element to the top of a stack?
+a) Enqueue
+b) Push
+c) Pop
+d) Insert
+answer
+b) Push

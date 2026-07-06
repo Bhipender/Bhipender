@@ -1,0 +1,7 @@
+9. A node with no children in a tree is called:
+a) Root Node
+b) Parent Node
+c) Leaf Node
+d) Branch Node
+answer
+c) Leaf Node
